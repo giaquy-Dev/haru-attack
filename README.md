@@ -15,9 +15,6 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
-## Menu
-![karma](https://user-images.githubusercontent.com/87601386/165147097-7f6f4f6d-f9fd-4a53-b3fa-a16fe739e963.png)
-
 ## Methods
 
 ```sh
@@ -49,11 +46,11 @@
  - Subnet  | Subnet IP Address Lookup
 ```
 
-## Usage on Linux
+## Usage on Linux - Termux
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/HyukIsBack/KARMA-DDoS.git
+https://github.com/giaquy-Dev/haru-attack.git
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
