@@ -1,7 +1,7 @@
 import os
 
 print("""
-\x1b[38;2;255;20;147mHARU ATTACK <-SETUP->\x1b[38;2;0;255;58m>(setup)
+\x1b[38;2;255;20;147mHARU ATTACK <<-SETUP->\x1b[38;2;0;255;58m>(setup)
 """) 
 
 print("""[0] pip\n[1] pip3\nWhich one do you use?""")
